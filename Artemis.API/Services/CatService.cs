@@ -35,8 +35,6 @@ namespace Artemis.API.Services
             // Fetch cats
             List<CatDto> fetchedCats = await RetrieveCatsFromCatApiAsync();
 
-            var test = _unitOfWork.Cats;
-
             if (fetchedCats == null || fetchedCats.Count() < 1)
                 return;
 

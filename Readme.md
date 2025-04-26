@@ -1,11 +1,9 @@
 ## Artemis
+	Why Artemis?
 	I chose something in Greek, and what's better from ancient Greek mythology reference about the protector of animals?
 	My other idea was Schrodinger.
 	Artemis project fetches from thecatpi a list of cats, maps it with needed items.
 
-## Purpose
-	Code review from Natech. 
-	
 ## Features
 	- Fetches a list of cats and their related tags from thecatapi.com
 	- Stores in local DB.
@@ -59,10 +57,4 @@
 		etc
 
 
-### This is what I managed for the time I managed to give.
 ### If there is any wrong spelling, it could be intentional!!1 :D 
-
-
-## Personal info
-	Chersoniotakis Stavros
-	Software Engineer
